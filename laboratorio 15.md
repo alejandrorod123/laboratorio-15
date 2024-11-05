@@ -1,4 +1,4 @@
-#### Tiziano Pirez 4to 4ta
+#### Elias Rod
 
 # Introducción a Redes
 
