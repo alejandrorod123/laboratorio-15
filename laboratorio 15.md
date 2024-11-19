@@ -25,17 +25,17 @@ En este trabajo práctico exploraremos los fundamentos de las redes de computado
     - **Ejemplo**: Bases de datos. Un servidor de base de datos almacena información que puede ser accedida por diferentes usuarios y aplicaciones en la red, lo que permite un manejo centralizado de datos.
 
 - **Pregunta 1b**: ¿A qué categoría de recursos compartidos nos referimos al trabajar en un procesador de texto en un servidor?
-  - **Respuesta**: Nos referimos a **programas**. Cuando varios usuarios trabajan en un procesador de texto que reside en un servidor, están utilizando un software que permite la edición y el almacenamiento colaborativo de documentos. Esto es fundamental en entornos de trabajo donde la colaboración y la productividad son esenciales.
+  - **Respuesta**: Nos referimos a **programas**. Cuando varios usuarios trabajan en un procesador de texto que reside en un servidor, están utilizando un software que permite la edición y el almacenamiento colaborativo de documentos. 
 
 - **Pregunta 1c**: Al acceder a la página web del banco, ¿qué categoría de recursos compartidos estamos utilizando?
   - **Respuesta**: Estamos utilizando la categoría de **datos**. Al consultar el saldo de una cuenta en la página web del banco, estamos accediendo a información específica almacenada en los servidores del banco. Esto implica la transferencia de datos entre el servidor y nuestro dispositivo, permitiéndonos ver información crítica en tiempo real.
 
 - **Pregunta 1d**: Si accedo a otra computadora de la red de mi casa, ¿a qué categoría de recursos compartidos nos referimos?
-  - **Respuesta**: Nos referimos a **equipos**. Al acceder a otra computadora en la red local, estamos interactuando con un dispositivo físico, lo que nos permite compartir archivos, recursos y realizar tareas de manera colaborativa.
+  - **Respuesta**: Nos referimos a **equipos**. Al acceder a otra computadora en la red local, estamos interactuando con un dispositivo físico.
 
 ### 2. Conexiones de Red
 - **Pregunta 2**: ¿Qué tipo de cable utilizarías para conectar dos computadoras?
-  - **Respuesta**: Para conectar dos computadoras directamente, utilizaríamos un **cable Ethernet (RJ-45)**. Este tipo de cable es fundamental en las redes LAN (Local Area Network) y permite la transmisión de datos a alta velocidad, soportando conexiones de hasta 1 Gbps o más en redes modernas.
+  - **Respuesta**: Para conectar dos computadoras directamente, utilizaríamos un **cable Ethernet (RJ-45)**. 
 
 ### 3. Dominios de Colisión
 - **Pregunta 3**: ¿Es mejor tener un dominio de colisión grande o pequeño?
@@ -47,11 +47,11 @@ En este trabajo práctico exploraremos los fundamentos de las redes de computado
 
 ### 5. Filtrado de Tráfico
 - **Pregunta 5**: ¿El hub filtra tráfico o envía datos a todos los puertos?
-  - **Respuesta**: El hub **no filtra tráfico**; simplemente recibe datos de un puerto y los envía a todos los demás puertos. Esta falta de filtrado significa que todos los dispositivos reciben todos los datos, lo que puede llevar a colisiones y una eficiencia reducida en la red.
+  - **Respuesta**: El hub **no filtra tráfico**; simplemente recibe datos de un puerto y los envía a todos los demás puertos. Esta falta de filtrado significa que todos los dispositivos reciben todos los datos.
 
 ### 6. Solución de Problemas
 - **Pregunta 6**: ¿Qué dispositivo permite solucionar problemas de exceso de tráfico y colisiones?
-  - **Respuesta**: Un **switch** es el dispositivo que ayuda a gestionar y reducir los problemas de tráfico y colisiones. A diferencia de un hub, un switch envía datos solamente al dispositivo de destino, lo que minimiza las colisiones y mejora el rendimiento de la red.
+  - **Respuesta**: Un **switch** es el dispositivo que ayuda a gestionar y reducir los problemas de tráfico y colisiones. A diferencia de un hub, un switch envía datos solamente al dispositivo de destino.
 
 ### 7. Bridge
 - **Pregunta 7**: ¿Qué es un bridge?
@@ -59,7 +59,7 @@ En este trabajo práctico exploraremos los fundamentos de las redes de computado
 
 ### 8. Dirección MAC
 - **Pregunta 8**: ¿Qué es una dirección MAC y cuántos bits tiene?
-  - **Respuesta**: Una dirección MAC (Media Access Control) es un identificador único asignado a cada interfaz de red. Esta dirección tiene una longitud de **48 bits** y es utilizada para identificar de manera única a los dispositivos en una red local, asegurando que los datos se envíen al dispositivo correcto.
+  - **Respuesta**: Una dirección MAC (Media Access Control) es un identificador único asignado a cada interfaz de red. Esta dirección tiene una longitud de **48 bits** y es utilizada para identificar de manera única a los dispositivos en una red local.
 
 ### 9. Dominios de Colisión y Bridge
 - **Pregunta 9**: ¿Qué significa que un bridge rompe los dominios de colisión?
